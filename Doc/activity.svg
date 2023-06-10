@@ -28,15 +28,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.82725072"
-     inkscape:cx="780.89989"
-     inkscape:cy="1459.6542"
+     inkscape:zoom="0.58495459"
+     inkscape:cx="612.01331"
+     inkscape:cy="617.99669"
      inkscape:window-width="1366"
      inkscape:window-height="654"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1032" />
+     inkscape:current-layer="g1333" />
   <defs
      id="defs29">
     <style
@@ -3078,18 +3078,20 @@ a { color: #007bff; }
          style="font-size:10.6667px;stroke-width:0.899679">(get client ID)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="652.08167"
        y="532.79297"
        id="text3726"><tspan
          sodipodi:role="line"
          id="tspan3724"
          x="652.08167"
-         y="532.79297">Send Client </tspan><tspan
+         y="532.79297"
+         style="font-size:10.6667px">Send Client </tspan><tspan
          sodipodi:role="line"
          x="652.08167"
-         y="547.79297"
-         id="tspan3734">ID to Server</tspan></text>
+         y="546.12628"
+         id="tspan3734"
+         style="font-size:10.6667px">ID to Server</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
@@ -3132,18 +3134,20 @@ a { color: #007bff; }
          style="font-size:10.6667px">to Server</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="380.23199"
-       y="1218.8622"
+       y="1220.071"
        id="text6964"><tspan
          sodipodi:role="line"
          id="tspan6962"
          x="380.23199"
-         y="1218.8622">Receive </tspan><tspan
+         y="1220.071"
+         style="font-size:10.6667px">Receive </tspan><tspan
          sodipodi:role="line"
          x="380.23199"
-         y="1233.8622"
-         id="tspan6966">Modified Message</tspan></text>
+         y="1233.4044"
+         id="tspan6966"
+         style="font-size:10.6667px">Modified Message</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
@@ -3183,18 +3187,20 @@ a { color: #007bff; }
          style="font-size:10.6667px">  Message</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="847.79175"
        y="1478.238"
        id="text8807"><tspan
          sodipodi:role="line"
          id="tspan8805"
          x="847.79175"
-         y="1478.238">Message is</tspan><tspan
+         y="1478.238"
+         style="font-size:10.6667px">Message is</tspan><tspan
          sodipodi:role="line"
          x="847.79175"
-         y="1493.238"
-         id="tspan8809">null or Zero?</tspan></text>
+         y="1491.5714"
+         id="tspan8809"
+         style="font-size:10.6667px">null or Zero?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
