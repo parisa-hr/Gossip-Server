@@ -7,7 +7,7 @@
    viewBox="-0.5 -0.5 1040 1542"
    animation="{&quot;scriptArr&quot;:[],&quot;cellIdArr&quot;:[]}"
    id="svg1345"
-   sodipodi:docname="socket2.svg"
+   sodipodi:docname="activity.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    inkscape:export-filename="../cf952348/123.png"
    inkscape:export-xdpi="96"
@@ -28,15 +28,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.41362536"
-     inkscape:cx="391.65877"
-     inkscape:cy="419.4617"
+     inkscape:zoom="0.82725072"
+     inkscape:cx="780.89989"
+     inkscape:cy="1459.6542"
      inkscape:window-width="1366"
      inkscape:window-height="654"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1333" />
+     inkscape:current-layer="g1032" />
   <defs
      id="defs29">
     <style
@@ -1178,7 +1178,7 @@ a { color: #007bff; }
          id="rect477" />
       <text
          xml:space="preserve"
-         style="fill:#000000"
+         style="font-size:10.6667px;fill:#000000"
          x="850.15167"
          y="863.28339"
          id="text1562"><tspan
@@ -1186,12 +1186,12 @@ a { color: #007bff; }
            id="tspan1560"
            x="850.15167"
            y="863.28339"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle">Close Connection</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle">Close Connection</tspan><tspan
            sodipodi:role="line"
            x="850.15167"
-           y="879.20459"
+           y="877.43555"
            id="tspan1614"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle"> and Exit</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle"> and Exit</tspan></text>
     </g>
     <g
        shape-node=""
@@ -1478,18 +1478,20 @@ a { color: #007bff; }
        id="g594">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
          x="652.47357"
          y="1106.8199"
          id="text5026"><tspan
            sodipodi:role="line"
            id="tspan5024"
            x="652.47357"
-           y="1106.8199">Send Destination</tspan><tspan
+           y="1106.8199"
+           style="font-size:10.6667px">Send Destination</tspan><tspan
            sodipodi:role="line"
            x="652.47357"
-           y="1121.8199"
-           id="tspan5028"> ID to Server</tspan></text>
+           y="1120.1533"
+           id="tspan5028"
+           style="font-size:10.6667px"> ID to Server</tspan></text>
     </g>
     <g
        shape-node=""
@@ -1607,21 +1609,24 @@ a { color: #007bff; }
     </g>
     <g
        shape-node=""
-       id="g675">
+       id="g675"
+       transform="matrix(0.95468854,0,0,0.95468854,17.292935,50.286679)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1729px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
          x="381.53918"
          y="1105.8324"
          id="text9999"><tspan
            sodipodi:role="line"
            id="tspan9997"
            x="381.53918"
-           y="1105.8324">Handle Client Request</tspan><tspan
+           y="1105.8324"
+           style="font-size:11.1729px">Handle Client Request</tspan><tspan
            sodipodi:role="line"
            x="381.53918"
-           y="1120.8324"
-           id="tspan10001">(GET Destination ID)</tspan></text>
+           y="1119.7986"
+           id="tspan10001"
+           style="font-size:11.1729px">(GET Destination ID)</tspan></text>
     </g>
     <g
        shape-node=""
@@ -2177,17 +2182,17 @@ a { color: #007bff; }
                  d="M948.9166870117188,1489.30009765625 h78.14999389648438" />
             </defs>
             <text
-               fill="rgb(0, 0, 0)"
+               fill="#000000"
                font-size="14px"
-               font-family="&quot;Times New Roman&quot;, &quot;VP Default&quot;"
+               font-family="'Times New Roman', 'VP Default'"
                font-weight="400"
-               id="text1024"><textPath
+               id="text1024"
+               style="font-size:10.6667px"><textPath
                  xlink:href="#T4qMBRGHyFW.ygJ2"
                  startOffset="50%"
                  text-anchor="middle"
-                 id="textPath1022"><tspan
-                   xml:space="preserve"
-                   id="tspan1020">Print message </tspan></textPath></text>
+                 id="textPath1022"
+                 style="font-size:10.6667px">Print message</textPath></text>
           </svg>
         </switch>
       </g>
@@ -2990,7 +2995,7 @@ a { color: #007bff; }
     </g>
     <text
        xml:space="preserve"
-       style="fill:#000000"
+       style="font-size:10.6667px;fill:#000000"
        x="52.610214"
        y="1106.4861"
        id="text1562-3"><tspan
@@ -2998,44 +3003,49 @@ a { color: #007bff; }
          id="tspan1560-6"
          x="52.610214"
          y="1106.4861"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle">Close Connection</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle">Close Connection</tspan><tspan
          sodipodi:role="line"
          x="52.610214"
-         y="1122.4072"
+         y="1120.6383"
          id="tspan1614-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle"> and Exit</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle"> and Exit</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="379.51675"
        y="1343.7966"
        id="text2331"><tspan
          sodipodi:role="line"
          id="tspan2329"
          x="379.51675"
-         y="1343.7966">+1 </tspan><tspan
+         y="1343.7966"
+         style="font-size:10.6667px">+1 </tspan><tspan
          sodipodi:role="line"
          x="379.51675"
-         y="1358.7966"
-         id="tspan2333">Modified Message</tspan></text>
+         y="1357.13"
+         id="tspan2333"
+         style="font-size:10.6667px">Modified Message</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="391.67035"
        y="167.5519"
        id="text3048"><tspan
          sodipodi:role="line"
          id="tspan3046"
          x="391.67035"
-         y="167.5519">Bind the socket </tspan><tspan
+         y="167.5519"
+         style="font-size:10.6667px">Bind the socket </tspan><tspan
          sodipodi:role="line"
          x="391.67035"
-         y="182.5519"
-         id="tspan3058">to the specified </tspan><tspan
+         y="180.88522"
+         id="tspan3058"
+         style="font-size:10.6667px">to the specified </tspan><tspan
          sodipodi:role="line"
          x="391.67035"
-         y="197.5519"
-         id="tspan3060">IP and port</tspan></text>
+         y="194.21857"
+         id="tspan3060"
+         style="font-size:10.6667px">IP and port</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
@@ -3046,22 +3056,26 @@ a { color: #007bff; }
          id="tspan3052" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
-       x="384.81717"
-       y="529.8689"
-       id="text3070"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.899679"
+       x="363.42691"
+       y="558.01758"
+       id="text3070"
+       transform="scale(1.054138,0.94864238)"><tspan
          sodipodi:role="line"
          id="tspan3068"
-         x="384.81717"
-         y="529.8689">Handle Client</tspan><tspan
+         x="363.42691"
+         y="558.01758"
+         style="font-size:10.6667px;stroke-width:0.899679">Handle Client</tspan><tspan
          sodipodi:role="line"
-         x="384.81717"
-         y="544.8689"
-         id="tspan3074"> Request</tspan><tspan
+         x="363.42691"
+         y="571.35089"
+         id="tspan3074"
+         style="font-size:10.6667px;stroke-width:0.899679"> Request</tspan><tspan
          sodipodi:role="line"
-         x="384.81717"
-         y="559.8689"
-         id="tspan3072">(get client ID)</tspan></text>
+         x="363.42691"
+         y="584.68427"
+         id="tspan3072"
+         style="font-size:10.6667px;stroke-width:0.899679">(get client ID)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
@@ -3086,32 +3100,36 @@ a { color: #007bff; }
          id="tspan3728" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="650.17395"
        y="631.62842"
        id="text4382"><tspan
          sodipodi:role="line"
          id="tspan4380"
          x="650.17395"
-         y="631.62842">Create Thread to</tspan><tspan
+         y="631.62842"
+         style="font-size:10.6667px">Create Thread to</tspan><tspan
          sodipodi:role="line"
          x="650.17395"
-         y="646.62842"
-         id="tspan4384"> Receive Messages</tspan></text>
+         y="644.96173"
+         id="tspan4384"
+         style="font-size:10.6667px"> Receive Messages</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="655.87103"
        y="1218.3055"
        id="text5033"><tspan
          sodipodi:role="line"
          id="tspan5031"
          x="655.87103"
-         y="1218.3055">Send Message </tspan><tspan
+         y="1218.3055"
+         style="font-size:10.6667px">Send Message </tspan><tspan
          sodipodi:role="line"
          x="655.87103"
-         y="1233.3055"
-         id="tspan5035">to Server</tspan></text>
+         y="1231.6389"
+         id="tspan5035"
+         style="font-size:10.6667px">to Server</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
@@ -3128,36 +3146,41 @@ a { color: #007bff; }
          id="tspan6966">Modified Message</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="380.39893"
        y="1469.6128"
        id="text7602"><tspan
          sodipodi:role="line"
          id="tspan7600"
          x="380.39893"
-         y="1469.6128">Send Message</tspan><tspan
+         y="1469.6128"
+         style="font-size:10.6667px">Send Message</tspan><tspan
          sodipodi:role="line"
          x="380.39893"
-         y="1484.6128"
-         id="tspan7604">To Destination</tspan><tspan
+         y="1482.9462"
+         id="tspan7604"
+         style="font-size:10.6667px">To Destination</tspan><tspan
          sodipodi:role="line"
          x="380.39893"
-         y="1499.6128"
-         id="tspan7606">ID Client</tspan></text>
+         y="1496.2794"
+         id="tspan7606"
+         style="font-size:10.6667px">ID Client</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="649.07294"
        y="1476.5411"
        id="text8203"><tspan
          sodipodi:role="line"
          id="tspan8201"
          x="649.07294"
-         y="1476.5411">Receive</tspan><tspan
+         y="1476.5411"
+         style="font-size:10.6667px">Receive</tspan><tspan
          sodipodi:role="line"
          x="649.07294"
-         y="1491.5411"
-         id="tspan8205">  Message</tspan></text>
+         y="1489.8745"
+         id="tspan8205"
+         style="font-size:10.6667px">  Message</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
@@ -3174,40 +3197,46 @@ a { color: #007bff; }
          id="tspan8809">null or Zero?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="189.36684"
        y="1101.2448"
        id="text9391"><tspan
          sodipodi:role="line"
          id="tspan9389"
          x="189.36684"
-         y="1101.2448"> Destination</tspan><tspan
+         y="1101.2448"
+         style="font-size:10.6667px"> Destination</tspan><tspan
          sodipodi:role="line"
          x="189.36684"
-         y="1116.2448"
-         id="tspan9393">ID</tspan><tspan
+         y="1114.5781"
+         id="tspan9393"
+         style="font-size:10.6667px">ID</tspan><tspan
          sodipodi:role="line"
          x="189.36684"
-         y="1131.2448"
-         id="tspan9395">is 0 ?</tspan></text>
+         y="1127.9114"
+         id="tspan9395"
+         style="font-size:10.6667px">is 0 ?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:times;-inkscape-font-specification:times;text-align:center;text-anchor:middle;fill:#000000"
        x="652.37836"
        y="861.06769"
        id="text9391-5"><tspan
          sodipodi:role="line"
          id="tspan9389-3"
          x="652.37836"
-         y="861.06769"> Destination</tspan><tspan
+         y="861.06769"
+         style="font-size:10.6667px"> Destination</tspan><tspan
          sodipodi:role="line"
          x="652.37836"
-         y="876.06769"
-         id="tspan9393-5">ID</tspan><tspan
+         y="874.401"
+         id="tspan9393-5"
+         style="font-size:10.6667px">ID</tspan><tspan
          sodipodi:role="line"
          x="652.37836"
-         y="891.06769"
-         id="tspan9395-6">is 0 ?</tspan></text>
+         y="887.73438"
+         id="tspan9395-6"
+         style="font-size:10.6667px">is 0 ?</tspan></text>
   </g>
   <switch
      id="switch1341">
