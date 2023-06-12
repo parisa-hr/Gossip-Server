@@ -1,12 +1,10 @@
 #include <iostream>
-#include <cstring>
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <unistd.h>
-#include <netdb.h>
 #include <vector>
 #include <map>
-#include <pthread.h>
+#include <thread>
 
 // The port number on which the server listens for connections.
 #define PORT 7654

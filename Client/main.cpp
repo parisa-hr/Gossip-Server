@@ -1,10 +1,8 @@
 #include <iostream>
-#include <cstring>
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <unistd.h>
-#include <netdb.h>
-#include <pthread.h>
+#include <thread>
 
 #define PORT 7654
 
